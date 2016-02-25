@@ -4,7 +4,7 @@ using namespace std;
 FILE*fout=fopen("rate.txt","w");
 int main()
 {
-  const int p=100007;
+  const int p=100019;
   for(int a=1;a<=500;a++)
     {
       int rata=1;
