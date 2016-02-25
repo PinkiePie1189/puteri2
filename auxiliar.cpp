@@ -15,6 +15,6 @@ int main()
        put%=p;
        rata++;
       }
-     fprintf(fin,"%d\n",rata);
+     fprintf(fout,"%d\n",rata);
     }
 }
